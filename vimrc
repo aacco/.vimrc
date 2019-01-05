@@ -26,7 +26,7 @@ nnoremap <silent><Esc><Esc> :<C-u>set nohlsearch!<CR>
 
 "Keymap ============================================
 ""nnoremap ; :
-inoremap { {}<Left> 
+inoremap { {}<Left>
 inoremap {<Enter> {}<Left><Enter><Enter><up><TAB>
 inoremap ( ()<Left>
 inoremap (<Enter> ()<Left><Enter><Enter><up><TAB>
